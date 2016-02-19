@@ -1,0 +1,28 @@
+name: HuisVanHennep
+favicon: null
+layout_spectrum: 0.06628421344794333
+typography_spectrum: 0.293523222906515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.474108460592106
+  lightness: 0.4177638371475041
+  saturation: 0.7716241355519742
+  rhythmicContrast: 0.9598730620928109
+purpose: []
